@@ -7,6 +7,9 @@
 #define VARIABLE 6
 #define VARIABLE 11
 
+/*Ya hay cambios
+*/
+
 #define PATH "proc\kmsg"
 int main (void)
 {

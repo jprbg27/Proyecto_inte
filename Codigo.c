@@ -3,6 +3,7 @@
 #define VARIABLE 2
 #define VARIABLE 3
 #define VARIABLE 5
+#define VARIABLE 6
 #define PATH "proc\kmsg"
 int main (void)
 {
